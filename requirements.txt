@@ -1,0 +1,6 @@
+streamlit
+torch
+transformers
+pandas
+numpy
+safetensors
